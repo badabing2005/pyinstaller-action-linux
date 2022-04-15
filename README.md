@@ -66,6 +66,6 @@ jobs:
 ## Sources
 
 A big thank you to all the contributors over at:
-<https://github.com/JackMcKew/pyinstaller-action-linux>
-<https://github.com/cdrx/docker-pyinstaller>
-<https://github.com/Toilal/docker-pyinstaller>
+<https://github.com/JackMcKew/pyinstaller-action-linux>  
+<https://github.com/cdrx/docker-pyinstaller>  
+<https://github.com/Toilal/docker-pyinstaller>  

@@ -1,6 +1,6 @@
 # PyInstaller-Action-Linux
 
-Github Action for building executables with PyInstaller for running on Linux
+Github Action for building executables with PyInstaller for running on Linux  
 This is a fork of excellent work done by JackMcKew to additionally support building WxPython based programs.
 
 To build your application, you need to specify where your source code is via the `path` argument, this defaults to `src`.

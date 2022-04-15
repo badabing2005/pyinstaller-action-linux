@@ -21,10 +21,6 @@ inputs:
     description: "Specify a file path for .spec file"
     required: False
     default: ""
-  tkinter:
-    description: "Specify whether to install Tkinter or not"
-    required: false
-    default: false
 outputs:
   output:
     description: "The output of PyInstaller"
